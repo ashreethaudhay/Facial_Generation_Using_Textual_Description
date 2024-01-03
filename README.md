@@ -24,8 +24,11 @@ Generating faces from textual descriptions presents unique challenges compared t
 ## Results
 The model is able to convincingly generate diverse faces matching the provided text descriptions. Some examples:
 
-- _A young man with green eyes, long wavy brown hair, thick eyebrows and light beard stubble_
- 
+- _A middle-aged man with a chubby face and a friendly smile. He has a receding hairline and wavy brown hair that is starting to gray. He has big lips, a big nose, and narrow eyes that twinkle with humor. He is clean-shaven, with only a little bit of stubble on his chin_
+<img width="167" alt="Screenshot (1)" src="https://github.com/ashreethaudhay/face_generation_from_textual_description/assets/155312402/2d535370-e2ac-4654-9577-ca6e1bd49b4e">
+
+- _A young woman with an oval face, rosy cheeks, and a cheerful smile. She has high cheekbones, a double chin, and is slightly chubby. She has curly brown hair, big lips, and sparkling green eyes. She is wearing earrings and lipstick_
+
 
   
 
